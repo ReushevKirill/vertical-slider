@@ -1,0 +1,16 @@
+{
+	"name": "03-slider",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"homepage": "https://reushevkirill.github.io/vertical-slider",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"gh-pages": "^5.0.0"
+	}
+}
